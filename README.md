@@ -9,3 +9,6 @@ load test:
 
 jenkins / docker:
 <http://knowledge.sakura.ad.jp/knowledge/5293/>
+
+gatling w/ Grafana:
+<http://gatling.io/docs/current/realtime_monitoring/>
