@@ -19,3 +19,6 @@ gatling w/ Taurus
 
 docker setup and combine w/ jenkins by scripting:
 <https://qiita.com/tigberd/items/b94ae2bf7d78685cd6f5>
+
+docker setup:
+<http://www.atmarkit.co.jp/ait/articles/1405/16/news032.html>
