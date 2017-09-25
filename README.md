@@ -12,3 +12,8 @@ jenkins / docker:
 
 gatling w/ Grafana:
 <http://gatling.io/docs/current/realtime_monitoring/>
+
+gatling w/ Taurus
+<https://dzone.com/articles/how-to-load-test-with-gatling-and-taurus>
+<https://gettaurus.org/docs/Gatling/>
+
