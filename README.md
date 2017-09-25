@@ -17,3 +17,5 @@ gatling w/ Taurus
 <https://dzone.com/articles/how-to-load-test-with-gatling-and-taurus>
 <https://gettaurus.org/docs/Gatling/>
 
+docker setup and combine w/ jenkins by scripting:
+<https://qiita.com/tigberd/items/b94ae2bf7d78685cd6f5>
